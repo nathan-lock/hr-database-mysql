@@ -1,2 +1,2 @@
 # hr-database-mysql
-Example mysql database with creation scripts, population and testing.
+Example mysql database with creation scripts, population and testing to BCNF.
