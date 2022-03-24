@@ -1,2 +1,8 @@
 # hr-database-mysql
-Example mysql database with creation scripts, population and testing to BCNF.
+Example MySQL database with creation scripts, population and queries BCNF.
+
+Maintainers:
+* Nathan Lock
+
+### Requirements ###
+ * MySQL
